@@ -29,6 +29,12 @@ void selectionSort(vector<int>&arr){
 
 }
 
+void insertionSort(){
+
+}
+
+
+
 int main(){
     vector<int>arr = {1,1,7,6,5};
     selectionSort(arr);
